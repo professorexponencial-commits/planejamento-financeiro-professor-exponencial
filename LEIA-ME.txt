@@ -1,0 +1,36 @@
+# Planejamento Financeiro Professor Exponencial — GitHub Pages
+
+Este pacote é um **aplicativo web instalável (PWA)**, pronto para GitHub Pages.
+
+## Publicação sem instalar programas
+
+1. Entre em https://github.com e crie um repositório **público** com nome `planejamento-financeiro-professor-exponencial`.
+2. No repositório, clique em **Add file → Upload files**.
+3. Envie **todos os seis arquivos** desta pasta, juntos, sem mudar os nomes: `index.html`, `manifest.webmanifest`, `sw.js`, `icon-192.png`, `icon-512.png`, `apple-touch-icon.png`.
+4. Clique em **Commit changes**.
+5. Acesse **Settings → Pages**. Em **Build and deployment → Source**, escolha **Deploy from a branch**. Em Branch, escolha `main`, pasta `/(root)` e clique em **Save**.
+6. Depois da publicação, o link segue este modelo:
+   `https://SEU-USUARIO.github.io/planejamento-financeiro-professor-exponencial/`
+   Substitua SEU-USUARIO pelo seu usuário real do GitHub.
+
+## Celular
+- **iPhone**: abra o link pelo Safari → Compartilhar → Adicionar à Tela de Início → Adicionar. Se disponível, marque 'Abrir como App da Web'.
+- **Android**: abra o link pelo Chrome → menu ⋮ → Instalar app ou Adicionar à tela inicial.
+- Não precisa de App Store/Play Store.
+
+## Dados e privacidade
+- Os dados do professor **ficam apenas no navegador/dispositivo**, não são enviados ao GitHub nem sincronizados entre aparelhos.
+- Faça backup dos dados antes de limpar o navegador ou mudar de celular. A publicação no GitHub é pública: **não coloque dados pessoais no código/repositório**.
+- Para abrir como aplicativo a partir da tela inicial e trabalhar offline após o primeiro acesso, use HTTPS (o GitHub Pages fornece HTTPS) e aguarde carregar os arquivos.
+
+## Testes
+- Testado neste ambiente em navegador Chromium de computador e modo de tela móvel emulada. Isso não substitui teste no Safari físico de iPhone.
+
+## Salvar seu planejamento no celular
+- As alterações continuam salvas automaticamente no navegador.
+- Toque em **💾 Salvar** (no celular, logo acima da navegação) e escolha:
+  1. **Salvar neste aparelho:** confirma o salvamento local do planejamento e do simulador.
+  2. **Baixar cópia de segurança:** baixa um JSON contendo ambos, para guardar e restaurar em outro aparelho.
+- Para restaurar: **Custos → Restaurar backup**.
+- Uma cópia local pode ser apagada ao limpar os dados do Safari/Chrome. Faça backup periodicamente.
+- Os arquivos publicados no GitHub são públicos, mas os registros do professor ficam apenas no navegador dele.
